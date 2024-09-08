@@ -17,4 +17,4 @@ This is a Flashcard Quiz App built using React and Tailwind CSS. The app allows 
 - **Enhanced Visual Appeal**: The app includes smooth animations, hover effects, and modern design elements.
 
 ## Live Demo 
-- [Flashcard Quiz App](https://flashcard-quiz-app-one.vercel.app/)
+- [Flashcard Quiz App](https://flashcard-quiz-app-bfq4.vercel.app/)
